@@ -1,5 +1,7 @@
-## 🐼 Hi there 🐼
-
+## 🐼 !Huiwon2's Github! 🐼
+<h3 align="center"> Tech Stack </h3>
+<h3 align="center"> Studying </h3>
+<h3 align="center"> Tools </h3>
 <!--
 **huiwon2/huiwon2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
