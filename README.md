@@ -61,6 +61,9 @@
   <img src="https://img.shields.io/badge/slack-%234A154B.svg?&style=for-the-badge&logo=slack&logoColor=white" />
 </div>
 <h3 align="center"> 💬 Contact </h3>
+<div align="center">
+  <a href="snowman4453@gmail.com">snowman4453@gmail.com</a>
+</div>
 <!--
 **huiwon2/huiwon2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
