@@ -21,6 +21,7 @@
   <img src="https://img.shields.io/badge/microsoft%20sql%20server-%23CC2927.svg?&style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white" />
   <img src="https://img.shields.io/badge/oracle-%23F80000.svg?&style=for-the-badge&logo=oracle&logoColor=white" />
   <img src="https://img.shields.io/badge/sqlite-%23003B57.svg?&style=for-the-badge&logo=sqlite&logoColor=white" />
+  <img src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white"/>
 </div>
 <div align="center">
   <img src="https://img.shields.io/badge/numpy-%23013243.svg?&style=for-the-badge&logo=numpy&logoColor=white" />
