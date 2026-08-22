@@ -1,4 +1,4 @@
-## 🐼 !Huiwon2's Github! 🐼
+## 🐼 Huiwon2's Github 🐼
 <h3 align="center"> :office: Tech Stack </h3>
 <div align="center">
   <img src="https://img.shields.io/badge/javascript-%23F7DF1E.svg?&style=for-the-badge&logo=javascript&logoColor=black" />
