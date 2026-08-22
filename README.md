@@ -31,11 +31,11 @@
 </div>
 <h3 align="center"> 🌱 Studying... </h3>
 <div align="center">
-  <img src="https://img.shields.io/badge/r-%23276DC3.svg?&style=for-the-badge&logo=r&logoColor=white" />
   <img src="https://img.shields.io/badge/docker-%232496ED.svg?&style=for-the-badge&logo=docker&logoColor=white" />
   <img src="https://img.shields.io/badge/vue.js-%234FC08D.svg?&style=for-the-badge&logo=vue.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/kali%20linux-%23557C94.svg?&style=for-the-badge&logo=kali%20linux&logoColor=white" />
   <img src="https://img.shields.io/badge/linux-%23FCC624.svg?&style=for-the-badge&logo=linux&logoColor=black" />
+  <img src="https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white" />
+  <img src="https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=pytorch&logoColor=white"/>
 </div>
 <h3 align="center"> :hammer: Tools </h3>
 <div align="center">
